@@ -1,0 +1,27 @@
+[
+    {
+      "song": "Candy Shop",
+      "title": "Candy Shop",
+      "album": "Get Rich Or Die Trying",
+      "artist": "50 cent",
+      "genre": "Hip Hop",
+      "release_date": "10-20-2008"
+    },
+    {
+      "song": "Im On One",
+      "title": "Im On One",
+      "album": "We The Best Music",
+      "artist": "Dj Khaled",
+      "genre": "Hip Hop",
+      "release_date": "10-30-2008"
+      
+    },
+    {
+        "song":  "Holy Grail",
+        "title": "Holy Grail",
+        "album": "Holy Grail ",
+        "artist": "Jay Z",
+        "genre": "Hip Hop",
+        "release_date": "05-20-2008"
+    }
+]
